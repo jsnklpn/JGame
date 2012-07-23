@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JGame", "JGame\JGame.csproj", "{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotationTest", "RotationTest\RotationTest.csproj", "{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JGame_UnitTests", "JGame_UnitTests\JGame_UnitTests.csproj", "{9BD61FD5-C863-4E09-877C-30D542AF0A96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F694E1E8-5F5E-4230-A6E6-3AB945BA6048}"
+	ProjectSection(SolutionItems) = preProject
+		JGame.vsmdi = JGame.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = JGame.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Debug|x86.ActiveCfg = Debug|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Debug|x86.Build.0 = Debug|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Release|Any CPU.ActiveCfg = Release|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Release|x86.ActiveCfg = Release|x86
+		{73EB5F62-9C99-4E8A-A72B-2DBC9AFE56E7}.Release|x86.Build.0 = Release|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Debug|x86.ActiveCfg = Debug|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Debug|x86.Build.0 = Debug|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Release|Any CPU.ActiveCfg = Release|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Release|x86.ActiveCfg = Release|x86
+		{DC4B00B5-91BD-403B-A9F9-0A5C1C7F1086}.Release|x86.Build.0 = Release|x86
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9BD61FD5-C863-4E09-877C-30D542AF0A96}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
